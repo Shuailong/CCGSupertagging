@@ -8,7 +8,7 @@ Add a language model to the LSTM Tagger.
 
 ### Model
 
-![CCG with LM](pic/ccgLM.png)
+<p align="left"><img src="pic/ccgLM.png" width="450" alt="CCG with LM"></p>
 
 *BiLSTM Model + LM on tags (Vaswani et al., 2016)*
 
