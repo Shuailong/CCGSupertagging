@@ -1,0 +1,7 @@
+code/ext
+code/*.pyc
+others/
+data/
+literature/
+models/
+*.log
